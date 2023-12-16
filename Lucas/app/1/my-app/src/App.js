@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css'; /*Importa os estilos e aplica aqui em App.js que ira para index.js que ira Renderizar tudo*/
 /*Usamo Chaves para selecionar qual funçao queremos importar e precisamos por export antes da function no outro arquivo*/
 import { Testimonio } from './Componentes/Testemonio';
@@ -6,8 +6,6 @@ import { Testimonio } from './Componentes/Testemonio';
 function App() {
   return (
     <div className="App">
-      <div className='contenedor-principal'>
-      </div>
       <Testimonio  //Chamando a funçao e aplicando as configutraçoes de props
         nome="Lucas Pereira Campestrini"
         pais="Brasil"
