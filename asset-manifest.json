@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/Let-me-know/static/css/main.778dbd08.css",
-    "main.js": "/Let-me-know/static/js/main.2fd6dc94.js",
+    "main.js": "/Let-me-know/static/js/main.b8f2b65e.js",
     "static/media/20220514_123126.jpg": "/Let-me-know/static/media/20220514_123126.e6dbbc073663eb612383.jpg",
+    "static/media/photo_2023-12-16_12-27-50.jpg": "/Let-me-know/static/media/photo_2023-12-16_12-27-50.524b45aaa89c0c29bbd0.jpg",
     "index.html": "/Let-me-know/index.html",
     "main.778dbd08.css.map": "/Let-me-know/static/css/main.778dbd08.css.map",
-    "main.2fd6dc94.js.map": "/Let-me-know/static/js/main.2fd6dc94.js.map"
+    "main.b8f2b65e.js.map": "/Let-me-know/static/js/main.b8f2b65e.js.map"
   },
   "entrypoints": [
     "static/css/main.778dbd08.css",
-    "static/js/main.2fd6dc94.js"
+    "static/js/main.b8f2b65e.js"
   ]
 }
