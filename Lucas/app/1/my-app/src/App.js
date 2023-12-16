@@ -13,6 +13,7 @@ function App() {
         cargo="Desenvolvedor De software FullStack"
         empresa="Freelancer Workana"
         testimonio="Gostaria de compartilhar com vocês a minha jornada incrível como Desenvolvedor de software. Trabalhar nesta Area revolucionária tem sido uma experiência verdadeiramente inspiradora e gratificante, e quero contar a vocês como cheguei aqui e o que torna essa Area tão " /> {/*Chama testimonio E determina configuraçoes das props*/}
+        <a href="https://www.linkedin.com/in/lucas-campestrini-b3b7021bb/"  target="__blank">Link do Linkedin"</a>
     </div>
   );
 }
