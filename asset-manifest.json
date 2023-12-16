@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Let-me-know/static/css/main.7fb89acf.css",
+    "main.js": "/Let-me-know/static/js/main.8b616949.js",
+    "static/media/20220514_123126.jpg": "/Let-me-know/static/media/20220514_123126.e6dbbc073663eb612383.jpg",
+    "index.html": "/Let-me-know/index.html",
+    "main.7fb89acf.css.map": "/Let-me-know/static/css/main.7fb89acf.css.map",
+    "main.8b616949.js.map": "/Let-me-know/static/js/main.8b616949.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fb89acf.css",
+    "static/js/main.8b616949.js"
+  ]
+}
